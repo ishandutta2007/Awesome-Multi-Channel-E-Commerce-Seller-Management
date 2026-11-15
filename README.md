@@ -11,11 +11,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management?style=social&color=white" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License: CC0 1.0" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🌟 **Star this repository** if you find it helpful for scaling your multi-channel seller operations and cross-marketplace integrations! 🌟
@@ -34,6 +37,8 @@
 - [📊 Feature & Architectural Matrix](#-feature--architectural-matrix)
 - [💡 Choosing the Right Platform](#-choosing-the-right-platform)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -224,6 +229,23 @@ Contributions, issues, and feature suggestions are very welcome! If you know of 
 6. Open a Pull Request 🚀
 
 *Please verify that submitted projects are actively maintained (commit activity within the last 12 months) and open source.*
+
+---
+
+## 💖 Support
+
+Thank you for exploring this curated guide to multi-channel e-commerce seller management! If you found this repository useful, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and share** it with fellow e-commerce developers, entrepreneurs, and digital agencies.
+- 📢 **Share your feedback or contribute** improvements and new tools via pull requests.
+- ☕ **Buy me a coffee / Sponsor**: If this project helped save you time and money, consider sponsoring on GitHub:  
+  [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management&type=date&legend=top-left)
 
 ---
 
