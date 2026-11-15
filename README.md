@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Channel-E-Commerce-Seller-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License: CC0 1.0" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
@@ -109,9 +109,9 @@ Self-hosted and developer-friendly multi-channel seller management software allo
 
 ### 🌟 Open-Source Solutions Ranked by Stars
 
-*The table below is sorted by **GitHub Stars (Descending)**. Star badges link directly to each repository's stargazers page:*
+*The table below is sorted by **GitHub_Stars (Descending)**. Stars_Badges link directly to each repository's stargazers page:*
 
-| Project 🛠️ | Community Stars ⭐ | Tech Stack 💻 | License 📜 | Architecture Type 🏗️ | Target Channels 🛒 |
+| Project 🛠️ | Community GitHub_Stars ⭐ | Tech Stack 💻 | License 📜 | Architecture Type 🏗️ | Target Channels 🛒 |
 | :--- | :---: | :--- | :--- | :--- | :--- |
 | **[ModernWMS](#modernwms-)** | [![Stars](https://img.shields.io/github/stars/fjykTec/ModernWMS?style=social&color=white)](https://github.com/fjykTec/ModernWMS/stargazers) | C# / .NET 7 / Vue 3 / TS | Apache-2.0 | Full Self-Hosted WMS & Inventory Hub | Multi-warehouse inventory, outbound order fulfillment |
 | **[OpenShip](#openship-)** | [![Stars](https://img.shields.io/github/stars/openshiporg/openship?style=social&color=white)](https://github.com/openshiporg/openship/stargazers) | TypeScript / Next.js / KeystoneJS | MIT | Multichannel Order Router & Fulfillment | Shopify, WooCommerce, Amazon, custom stores |
@@ -126,49 +126,49 @@ Self-hosted and developer-friendly multi-channel seller management software allo
 ### 📦 Detailed Open-Source Project Breakdown
 
 #### ModernWMS 🏢
-[![GitHub Stars](https://img.shields.io/github/stars/fjykTec/ModernWMS?style=social&color=white)](https://github.com/fjykTec/ModernWMS/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/fjykTec/ModernWMS?style=social&color=white)](https://github.com/fjykTec/ModernWMS/stargazers)
 * **Repository:** [fjykTec/ModernWMS](https://github.com/fjykTec/ModernWMS)
 * **Stack:** C# / .NET 7 / Vue 3 / TypeScript / MySQL / PostgreSQL / SQL Server | **License:** Apache-2.0
 * **Overview:** A production-ready, complete warehouse and multi-channel inventory management system extracted from enterprise ERP implementations. ModernWMS provides cross-platform barcode scanning, SKU location tracking, inbound purchase receiving, wave picking, and multi-location inventory adjustments that connect directly to e-commerce fulfillment channels.
 * **Best For:** Small-to-medium logistics teams and multi-channel merchants needing full warehouse physical management alongside multi-channel inventory control.
 
 #### OpenShip 🚢
-[![GitHub Stars](https://img.shields.io/github/stars/openshiporg/openship?style=social&color=white)](https://github.com/openshiporg/openship/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/openshiporg/openship?style=social&color=white)](https://github.com/openshiporg/openship/stargazers)
 * **Repository:** [openshiporg/openship](https://github.com/openshiporg/openship)
 * **Stack:** TypeScript / Next.js / Keystone.js / GraphQL / MongoDB | **License:** MIT
 * **Overview:** An open-source multi-channel order router and dropship automation platform designed to link storefronts (Shopify, WooCommerce) with multiple warehouses, 3PL providers, and dropshipping vendors. It handles order splitting, fulfillment routing, inventory sync across suppliers, and standardized webhook ingestion.
 * **Best For:** Direct-to-Consumer brands, dropshippers, and multi-warehouse retailers needing an automated order routing and supplier synchronization pipeline.
 
 #### OpenLinker 🔗
-[![GitHub Stars](https://img.shields.io/github/stars/openlinker-project/openlinker?style=social&color=white)](https://github.com/openlinker-project/openlinker/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/openlinker-project/openlinker?style=social&color=white)](https://github.com/openlinker-project/openlinker/stargazers)
 * **Repository:** [openlinker-project/openlinker](https://github.com/openlinker-project/openlinker)
 * **Stack:** TypeScript / NestJS / React / PostgreSQL / Redis | **License:** Apache-2.0
 * **Overview:** Built explicitly for development agencies whose e-commerce clients face thousands in monthly SaaS channel fees. Features a hexagonal architecture core with an extensible plugin SDK to isolate marketplace connectors from core order workflows. Supports two-way order sync, parcel shipping generation, and invoice distribution.
 * **Best For:** Digital commerce agencies and system integrators seeking a permissively licensed white-label foundation.
 
 #### Nexus Inventory ⚡
-[![GitHub Stars](https://img.shields.io/github/stars/malikad778/nexus-inventory?style=social&color=white)](https://github.com/malikad778/nexus-inventory/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/malikad778/nexus-inventory?style=social&color=white)](https://github.com/malikad778/nexus-inventory/stargazers)
 * **Repository:** [malikad778/nexus-inventory](https://github.com/malikad778/nexus-inventory)
 * **Stack:** PHP / Laravel / Redis | **License:** MIT
 * **Overview:** An enterprise-grade, driver-based Laravel engine for multi-channel inventory and catalog synchronization across Shopify, Amazon SP-API, WooCommerce, and Etsy. Features atomic Redis Lua-based rate limiting (Token Bucket) to eliminate oversell race conditions across parallel queue workers, paired with a three-layer queued job pipeline and HMAC webhook verification.
 * **Best For:** Laravel developers building custom seller hubs or embedding multi-marketplace sync directly into internal business systems.
 
 #### VentaSync 🌏
-[![GitHub Stars](https://img.shields.io/github/stars/VentaVerse/ventasync?style=social&color=white)](https://github.com/VentaVerse/ventasync)
+[![GitHub_Stars](https://img.shields.io/github/stars/VentaVerse/ventasync?style=social&color=white)](https://github.com/VentaVerse/ventasync)
 * **Repository:** [VentaVerse/ventasync](https://github.com/VentaVerse/ventasync)
 * **Stack:** PHP 8.2+ / Laravel / MySQL / Bootstrap | **License:** AGPL-3.0
 * **Overview:** A dedicated self-hosted multi-marketplace control panel tailored for Southeast Asian e-commerce powerhouses (Shopee, Lazada, TikTok Shop), alongside OpenCart and VentaCart. Centralizes master catalog variants, order fulfillment, return management, customer reviews, and automated stock/price updates via scheduled background workers.
 * **Best For:** Merchants selling on Southeast Asian marketplaces (Shopee, Lazada, TikTok Shop) who require a self-hosted control panel.
 
 #### Crossmart 🤖
-[![GitHub Stars](https://img.shields.io/github/stars/crossmart-io/crossmart?style=social&color=white)](https://github.com/crossmart-io/crossmart)
+[![GitHub_Stars](https://img.shields.io/github/stars/crossmart-io/crossmart?style=social&color=white)](https://github.com/crossmart-io/crossmart)
 * **Repository:** [crossmart-io/crossmart](https://github.com/crossmart-io/crossmart)
 * **Stack:** TypeScript / NestJS / PostgreSQL / Redis / MCP Protocol | **License:** AGPL-3.0
 * **Overview:** The first AI-native multi-channel platform built for autonomous AI agents and human sellers. Comes with an embedded Model Context Protocol (MCP) server (`https://mcp.crossmart.io/mcp`), enabling assistants in Claude, Cursor, or Gemini CLI to inspect inventory levels, resolve listing rejections, rewrite channel titles/tags, and push updates. Includes a centralized inventory ledger with last-unit protection.
 * **Best For:** Modern e-commerce sellers wanting an AI-agent-ready multichannel hub with native MCP tool calling.
 
 #### inventra 🐍
-[![GitHub Stars](https://img.shields.io/github/stars/maheshmakvana/inventra?style=social&color=white)](https://github.com/maheshmakvana/inventra)
+[![GitHub_Stars](https://img.shields.io/github/stars/maheshmakvana/inventra?style=social&color=white)](https://github.com/maheshmakvana/inventra)
 * **Repository:** [maheshmakvana/inventra](https://github.com/maheshmakvana/inventra)
 * **Stack:** Python 3.9+ / Asyncio / PyPI | **License:** MIT
 * **Overview:** A lightweight Python library for real-time multi-channel inventory reconciliation and oversell prevention across Shopify, Amazon, eBay, and WooCommerce. Offers built-in conflict resolution policies (`LOWEST_STOCK`, `HIGHEST_STOCK`, `CHANNEL_PRIORITY`), drift detection, automated reorder point calculation, and ABC/XYZ catalog categorization.
